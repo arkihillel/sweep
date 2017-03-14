@@ -28,6 +28,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "husl": "~5.0.0"
+    "husl": "https://github.com/hsluv/hsluv/commit/30555091a854645e0c5a01c578e3fe28191883a7"
   }
 }
